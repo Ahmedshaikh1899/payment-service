@@ -1,1 +1,2 @@
 Payment Service v1
+Bug Fixed is basic payment logic
